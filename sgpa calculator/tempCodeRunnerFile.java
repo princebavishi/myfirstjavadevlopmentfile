@@ -1,0 +1,1 @@
+    String jk1 = t[7].getText();
